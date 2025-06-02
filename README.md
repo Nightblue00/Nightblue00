@@ -16,10 +16,7 @@ I'm always eager to learn new things and improve my skills through hands-on proj
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-- Email: your.email@example.com
-- LinkedIn: [YourName](https://www.linkedin.com/in/yourprofile/)
-- GitHub: [yourusername](https://github.com/yourusername)
 
-![GitHub](https://img.shields.io/github/license/Nightblue00/tuo-repo?style=for-the-badge)
+
 
 <img src="https://skillicons.dev/icons?i=js,html,css,react,git,github" />
