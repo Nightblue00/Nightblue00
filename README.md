@@ -19,4 +19,4 @@ I'm always eager to learn new things and improve my skills through hands-on proj
 
 
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,git,github" />
+<img src="https://skillicons.dev/icons?i=js,html,css,git,github" />
